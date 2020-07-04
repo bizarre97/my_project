@@ -93,8 +93,7 @@ p{
 .list li{
 	margin: 0 0 30px 0;
 	font-size: 20px;
-	background: url(../img/link.png) 0 0 no-repeat;
-	padding-left: 30px;
+	list-style: georgian inside url('../img/link.png');
 	opacity: 1;
 }
 .text-color {
